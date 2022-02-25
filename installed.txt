@@ -1,0 +1,7 @@
+com.intellij.lang.jsgraphql
+com.mallowigi
+com.vecheslav.darculaDarkerTheme
+izhangzhihao.rainbow.brackets
+mobi.hsz.idea.gitignore
+org.intellij.plugins.postcss
+zielu.gittoolbox
